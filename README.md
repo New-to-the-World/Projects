@@ -24,3 +24,7 @@ A collection of projects on Artificial Intelligence (AI), Machine Learning (ML),
 * Mysql
 * PHP
 
+##Contact
+------------
+* Name : Harish S
+* email : harish141920@gmail.com
