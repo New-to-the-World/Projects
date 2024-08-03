@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camps</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Camps</h1>
+    <form action="add_camp.php" method="post">
+        <label for="camp_name">Camp Name:</label>
+        <input type="text" id="camp_name" name="camp_name" required><br>
+        <label for="location">Location:</label>
+        <input type="text" id="location" name="location" required><br>
+        <label for="start_date">Start Date:</label>
+        <input type="date" id="start_date" name="start_date" required><br>
+        <label for="end_date">End Date:</label>
+        <input type="date" id="end_date" name="end_date" required><br>
+        <label for="organizer_name">Organizer Name:</label>
+        <input type="text" id="organizer_name" name="organizer_name" required><br>
+        <label for="organizer_contact">Organizer Contact:</label>
+        <input type="text" id="organizer_contact" name="organizer_contact" required><br>
+        <input type="submit" value="Add Camp">
+    </form>
+    <h2>View Camps</h2>
+    <a href="view_camps.php">View Camps</a>
+</body>
+</html>
