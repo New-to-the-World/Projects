@@ -61,10 +61,5 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 ## Authors
 -------
 
-* [Your Name]
-* [Your Institution/Company]
-
-## Acknowledgments
----------------
-
-* [List any third-party libraries or resources used]
+* [Harish S]
+* [Saveetha School of Engineering - [SSE], Chennai]
