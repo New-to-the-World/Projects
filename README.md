@@ -16,8 +16,11 @@ A collection of projects on Artificial Intelligence (AI), Machine Learning (ML),
 
 * Python
 * TensorFlow
-* Keras
-* PyTorch
 * JavaScript
 * HTML/CSS
+* C
+* C++
+* Java
+* Mysql
+* PHP
 
